@@ -1,10 +1,7 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" />
-<p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mars-area&label=Profile%20views&color=0e75b6&style=flat" alt="mars-area" /> </p>
 <h1 align="center">Hi 👋, I'm Marga</h1>
 <h3 align="center">A Full Stack Developer from Indonesia</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mars-area&label=Profile%20views&color=0e75b6&style=flat" alt="mars-area" /> </p>
 
 - 🌱 I’m currently working as a **Full Stack Developer**
 
