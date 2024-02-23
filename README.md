@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Marga</h1>
-<h3 align="center">A Full Stack Developer from Indonesia</h3>
+<h1 align="center">Hi 👋, I'm Arga</h1>
+<h3 align="center">A Software Engineer from Indonesia</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mars-area&label=Profile%20views&color=0e75b6&style=flat" alt="mars-area" /> </p>
 
-- 🌱 I’m currently working as a **Full Stack Developer**
+- 🌱 I’m currently working as a **Associate Product Manager**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -51,6 +51,9 @@
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="next" width="40" height="40"/>
+  </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="background-color: white"/>
   </a>
@@ -63,12 +66,7 @@
     />
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"
-      width="40"
-      height="40"
-      style="background-color: white"
-    />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="background-color: white" />
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="background-color: white"/>
