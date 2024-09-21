@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mars-area&label=Profile%20views&color=0e75b6&style=flat" alt="mars-area" /> </p>
 
-- 🌱 I’m currently working as a **Associate Product Manager**
+- 🌱 I’m currently working as a **Technical Lead**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
