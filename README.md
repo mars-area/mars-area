@@ -125,8 +125,10 @@
   </a>
 </p>
 
+<!---
 ![Mars Area's GitHub stats](https://github-readme-stats.vercel.app/api?username=mars-area&show_icons=true&theme=onedark&locale=en)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mars-area&layout=compact&size_weight=0.5&count_weight=0.5)
+--->
 <!---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mars-area&show_icons=true&theme=onedark&locale=en" alt="mars-area-stats" /></p>
 mars-area/mars-area is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
